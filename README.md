@@ -1,6 +1,7 @@
 GUFTGO-VIDEO CONFRENCING APP
 
 https://user-images.githubusercontent.com/66123919/149636770-14607f05-0826-4f96-bf13-5319525061f2.mp4
+
 Learn to build a full featured Video Calling Android App like Whatsapp, Skype and IMO using Android Studio, Firebase Auth, Firebase Firestore and Java. 
 
 ➡️ Introduction <br>
